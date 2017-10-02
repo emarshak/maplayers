@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="gpxgenerator.com">
+<trk>
+    <name>ScottsRunNP.gpx</name>
+    <desc></desc>
+    <trkseg>
+        <trkpt lat="38.95807656254712" lon="-77.1977949142456">
+            <ele>89.77</ele>
+            <time>2017-07-25T18:17:34Z</time>
+        </trkpt>
+        <trkpt lat="38.95854375835256" lon="-77.19719409942627">
+            <ele>97.24</ele>
+            <time>2017-07-25T18:18:26Z</time>
+        </trkpt>
+        <trkpt lat="38.958977580270904" lon="-77.1968936920166">
+            <ele>98.85</ele>
+            <time>2017-07-25T18:19:05Z</time>
+        </trkpt>
+        <trkpt lat="38.9603290853746" lon="-77.19693660736084">
+            <ele>92.25</ele>
+            <time>2017-07-25T18:20:52Z</time>
+        </trkpt>
+        <trkpt lat="38.960445880901844" lon="-77.19502687454224">
+            <ele>74.53</ele>
+            <time>2017-07-25T18:22:50Z</time>
+        </trkpt>
+        <trkpt lat="38.960228974769485" lon="-77.19472646713257">
+            <ele>75.27</ele>
+            <time>2017-07-25T18:23:15Z</time>
+        </trkpt>
+        <trkpt lat="38.96012886402291" lon="-77.19449043273926">
+            <ele>77.63</ele>
+            <time>2017-07-25T18:23:31Z</time>
+        </trkpt>
+        <trkpt lat="38.9603290853746" lon="-77.19434022903442">
+            <ele>78.91</ele>
+            <time>2017-07-25T18:23:49Z</time>
+        </trkpt>
+        <trkpt lat="38.960429195838316" lon="-77.19266653060913">
+            <ele>84.74</ele>
+            <time>2017-07-25T18:25:32Z</time>
+        </trkpt>
+        <trkpt lat="38.96051262111664" lon="-77.19178676605225">
+            <ele>85.00</ele>
+            <time>2017-07-25T18:26:26Z</time>
+        </trkpt>
+        <trkpt lat="38.96054599120049" lon="-77.19159364700317">
+            <ele>83.94</ele>
+            <time>2017-07-25T18:26:38Z</time>
+        </trkpt>
+        <trkpt lat="38.9603290853746" lon="-77.1914005279541">
+            <ele>87.18</ele>
+            <time>2017-07-25T18:26:58Z</time>
+        </trkpt>
+    </trkset>
+</trk>
+</gpx>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+	<name>Woodland.gpx</name>
+	<link href="http://www.gpsies.com/">
+		<text>GPSies Track on GPSies.com</text>
+	</link>
+</metadata>
+<trk>
+	<name>Woodland</name>
+	<trkseg>
+		<trkpt lat="38.960710" lon="-77.191948">
+			<ele>103.00</ele>
+			<time>2010-01-01T00:00:00Z</time>
+		</trkpt>
+		<trkpt lat="38.960577" lon="-77.192505">
+			<ele>105.00</ele>
+			<time>2010-01-01T00:00:11Z</time>
+		</trkpt>
+		<trkpt lat="38.960593" lon="-77.193278">
+			<ele>105.00</ele>
+			<time>2010-01-01T00:00:26Z</time>
+		</trkpt>
+		<trkpt lat="38.960577" lon="-77.193815">
+			<ele>100.00</ele>
+			<time>2010-01-01T00:00:36Z</time>
+		</trkpt>
+		<trkpt lat="38.960477" lon="-77.194394">
+			<ele>99.00</ele>
+			<time>2010-01-01T00:00:48Z</time>
+		</trkpt>
+		<trkpt lat="38.960326" lon="-77.194608">
+			<ele>100.00</ele>
+			<time>2010-01-01T00:00:53Z</time>
+		</trkpt>
+		<trkpt lat="38.960009" lon="-77.194801">
+			<ele>103.00</ele>
+			<time>2010-01-01T00:01:02Z</time>
+		</trkpt>
+		<trkpt lat="38.960560" lon="-77.195252">
+			<ele>103.00</ele>
+			<time>2010-01-01T00:01:18Z</time>
+		</trkpt>
+		<trkpt lat="38.960427" lon="-77.195853">
+			<ele>108.00</ele>
+			<time>2010-01-01T00:01:30Z</time>
+		</trkpt>
+		<trkpt lat="38.960276" lon="-77.196583">
+			<ele>110.00</ele>
+			<time>2010-01-01T00:01:45Z</time>
+		</trkpt>
+		<trkpt lat="38.960410" lon="-77.196904">
+			<ele>109.00</ele>
+			<time>2010-01-01T00:01:52Z</time>
+		</trkpt>
+		<trkpt lat="38.959793" lon="-77.196947">
+			<ele>113.00</ele>
+			<time>2010-01-01T00:02:07Z</time>
+		</trkpt>
+		<trkpt lat="38.959108" lon="-77.197033">
+			<ele>117.00</ele>
+			<time>2010-01-01T00:02:24Z</time>
+		</trkpt>
+		<trkpt lat="38.958708" lon="-77.197355">
+			<ele>113.00</ele>
+			<time>2010-01-01T00:02:36Z</time>
+		</trkpt>
+		<trkpt lat="38.958091" lon="-77.197849">
+			<ele>106.00</ele>
+			<time>2010-01-01T00:02:54Z</time>
+		</trkpt>
+		<extensions>
+			<gte:name>#1</gte:name>
+			<gte:color>#00ce00</gte:color>
+		</extensions>
+	</trkseg>
+</trk>
+</gpx>
